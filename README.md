@@ -7,3 +7,9 @@ Bash script "wii-tools.bash"
 
 * Downloads WIT from the official repository.
 * Extracts the WIT package to a specified directory.
+
+```
+$ cd scripts
+$ bash wii-tools.bash
+```
+Note: Installing WBFS Manager requires root permissions.
