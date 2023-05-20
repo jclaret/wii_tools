@@ -12,4 +12,5 @@ Bash script "wii-tools.bash"
 $ cd scripts
 $ bash wii-tools.bash
 ```
-Note: Installing WBFS Manager requires root permissions.
+
+Note: Installing WBFS Manager requires root permissions if you choose to install it using the dnf command. Alternatively, you can download the source code and compile it manually.
